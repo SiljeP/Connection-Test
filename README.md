@@ -1,3 +1,6 @@
 # Connection-Test
 A connection test 
-!doctype
+
+<head>
+  <h1> Yo </h1>
+  </head>
